@@ -1,2 +1,2 @@
-##it Lab Demo project
-## updated remote by teammate
+##Git Lab Demo project
+## updated remotely by teammate
